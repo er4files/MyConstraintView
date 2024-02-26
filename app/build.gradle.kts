@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.dev.myconstraintview"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.dev.myconstraintview"
